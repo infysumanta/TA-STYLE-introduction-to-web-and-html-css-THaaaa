@@ -1,0 +1,38 @@
+* {
+  color: #fff;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  line-height: 27px;
+}
+body {
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: #22396a;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #48bb78 !important;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.skills {
+  list-style: none;
+  padding: 0;
+}
+
+.connect {
+  list-style: none;
+  padding: 0;
+}
+
+.connect li {
+  display: inline;
+  padding-right: 20px;
+}
+
+.connect li a {
+  color: #f9234d;
+}
